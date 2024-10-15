@@ -1,0 +1,22 @@
+{
+  "name": "ruhrpott-git",
+  "version": "1.0.0",
+  "description": "Eine Sammlung von Ruhrpott-inspirierten Aliasen, um deinen Git-Workflow zu verpottifizieren.",
+  "main": "index.js",
+  "bin": {
+    "ruhrpott": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "ruhrgebiet",
+    "alias",
+    "cli"
+  ],
+  "author": "Benedikt Hiepler",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
