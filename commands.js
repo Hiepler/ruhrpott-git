@@ -55,4 +55,8 @@ module.exports = {
         gitCommand: 'tag',
         message: "Denkmal gesetzt!"
     },
+    'hömma': {
+        gitCommand: 'bisect',
+        message: "klär dat mal"
+    },
 };

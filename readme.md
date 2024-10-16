@@ -24,6 +24,8 @@ Zum Beispiel ruft `ruhrpott förderturm` den Befehl `git log` auf.
 | reset     | klarschiff      | Mach mal Klarschiff - alles zurück auf Anfang.                      |
 | status    | kneipe          | Ab inne Kneipe - guck mal, wie der Stand der Dinge is.              |
 | tag       | denkmal         | Setz mal'n Denkmal - markier nen wichtigen Punkt in deiner Arbeit.  |
+| bisect    | hömma           | da ist was faul, dat muss geklärt werden                            |
+
 
 ## Installation
 
