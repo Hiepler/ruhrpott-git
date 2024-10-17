@@ -58,5 +58,9 @@ module.exports = {
     'wegpacken': {
         gitCommand: 'stash',
         message: "alles auffe Seite legen"
-    }
+    },
+    'hömma': {
+        gitCommand: 'bisect',
+        message: "klär dat mal"
+    },
 };
