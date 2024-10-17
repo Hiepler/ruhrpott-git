@@ -1,6 +1,6 @@
 {
   "name": "ruhrpott-git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eine Sammlung von Ruhrpott-inspirierten Aliasen, um deinen Git-Workflow zu verpottifizieren.",
   "main": "index.js",
   "bin": {
