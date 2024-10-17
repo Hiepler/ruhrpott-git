@@ -55,4 +55,8 @@ module.exports = {
         gitCommand: 'tag',
         message: "Denkmal gesetzt!"
     },
+    'wegpacken': {
+        gitCommand: 'stash',
+        message: "alles auffe Seite legen"
+    }
 };
