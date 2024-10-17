@@ -55,6 +55,10 @@ module.exports = {
         gitCommand: 'tag',
         message: "Denkmal gesetzt!"
     },
+    'wegpacken': {
+        gitCommand: 'stash',
+        message: "alles auffe Seite legen"
+    },
     'hömma': {
         gitCommand: 'bisect',
         message: "klär dat mal"
